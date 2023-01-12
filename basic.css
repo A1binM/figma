@@ -1,0 +1,23 @@
+.text {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+.gradiant {
+    background: linear-gradient(blue, transparent);
+    height: 75px;
+}
+.pic {
+    background-image: url("logo.png");
+}
